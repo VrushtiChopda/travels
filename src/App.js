@@ -6,7 +6,7 @@ import ForgotPassword from './components/admin/login/ForgotPassword';
 import AdminHome from './components/admin/login/AdminHome';
 import Booking from './components/admin/sidebar/Booking';
 import Packages from './components/admin/sidebar/Packages/Packages';
-import Destination from './components/admin/sidebar/Destination'
+import Destination from './components/admin/sidebar/destination/Destination'
 import Contact from './components/admin/sidebar/Contact'
 import UserDetails from './components/admin/sidebar/UserDetails'
 import Protected from './components/protected/Protected';
